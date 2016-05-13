@@ -19,7 +19,7 @@ public class WriterToFile implements IWriterToFile {
      */
     public void writeCode(final String outputCode) throws IOException {
         try {
-            fileStream = new FileOutputStream((new File("src\\main\\resources\\outputCode.txt")));
+            fileStream = new FileOutputStream((new File("src//main//resources//outputCode.txt")));
             PrintStream printStream = new PrintStream(fileStream);
             printStream.print(outputCode);
 

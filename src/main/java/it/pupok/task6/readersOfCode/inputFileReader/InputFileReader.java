@@ -21,7 +21,7 @@ public class InputFileReader implements ICodeReader {
      */
     public ArrayList<Character> readCode() throws ReaderException {
         try {
-            InputStream inputStream = new FileInputStream(new File("src\\main\\resources\\inputCode.txt"));
+            InputStream inputStream = new FileInputStream(new File("src//main//resources//inputCode.txt"));
             InputStreamReader inputStreamReader = new InputStreamReader(inputStream, "utf-8");
             BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
 

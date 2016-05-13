@@ -40,6 +40,24 @@ public class CodeFormatter implements ICodeFormatter {
                 case ';':
                     interimString = interimString.concat("\n" + stringIndented);
                     break;
+                case '(':
+                    interimString = " " + currentChar;
+                    break;
+                case ')':
+                    interimString = currentChar + " ";
+                    break;
+                case '&':
+                    interimString = " " + currentChar + " ";
+                    break;
+                case '|':
+                    interimString = " " + currentChar + " ";
+                    break;
+                case '+':
+                    interimString = " " + currentChar + " ";
+                    break;
+                case '-':
+                    interimString = " " + currentChar + " ";
+                    break;
             }
             outputCode = outputCode.concat(interimString);
         }

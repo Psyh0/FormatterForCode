@@ -1,1 +1,1 @@
-final class Main{public static void main(final String[]args){String s = 'abc';String str = 'abc';}public static String getTest(String s){return System.out.println(s);}}
+final class Main{public static void main(final String[]args){String s = 'abc';if(s =='abc'&s != 'cba'|s != 'acc'){s = s+s;int a = 3+4-2;}}public static String getTest(String s){return System.out.println(s);}}
