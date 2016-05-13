@@ -1,6 +1,6 @@
-package it.pupok.task6.writerOfCode.writerToFile;
+package it.pupok.task6.writerToFile.impl;
 
-import it.pupok.task6.writerOfCode.iWriterToFile.IWriterToFile;
+import it.pupok.task6.writerToFile.IWriterToFile;
 
 import java.io.*;
 

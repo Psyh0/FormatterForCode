@@ -1,4 +1,4 @@
-package it.pupok.task6.readersOfCode.consoleReader;
+package it.pupok.task6.reader.console;
 
 import it.pupok.task6.readersOfCode.converterStringToArray.ConverterStringToArray;
 import it.pupok.task6.readersOfCode.iCodeReader.ICodeReader;

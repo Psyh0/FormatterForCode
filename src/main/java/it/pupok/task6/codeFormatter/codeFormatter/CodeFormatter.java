@@ -1,6 +1,6 @@
-package it.pupok.task6.codeFormatter;
+package it.pupok.task6.codeFormatter.codeFormatter;
 
-import it.pupok.task6.iCodeFormatter.ICodeFormatter;
+import it.pupok.task6.codeFormatter.ICodeFormatter;
 import it.pupok.task6.exceptions.missingBracketException.MissingBracketException;
 
 import java.util.ArrayList;

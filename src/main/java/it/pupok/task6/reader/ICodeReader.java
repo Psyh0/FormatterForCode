@@ -1,4 +1,4 @@
-package it.pupok.task6.classesForReadersOfCode.iCodeReader;
+package it.pupok.task6.reader;
 
 import it.pupok.task6.exceptions.readerException.ReaderException;
 

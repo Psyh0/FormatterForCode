@@ -5,4 +5,4 @@
  * @author pupok
  * @version 1.2
  */
-package it.pupok.task6.writerOfCode.writerToFile;
+package it.pupok.task6.writerToFile.impl;

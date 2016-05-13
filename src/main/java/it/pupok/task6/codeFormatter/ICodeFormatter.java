@@ -1,4 +1,4 @@
-package it.pupok.task6.iCodeFormatter;
+package it.pupok.task6.codeFormatter;
 
 import it.pupok.task6.exceptions.missingBracketException.MissingBracketException;
 

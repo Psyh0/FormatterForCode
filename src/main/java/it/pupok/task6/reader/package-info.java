@@ -5,4 +5,4 @@
  * @author pupok
  * @version 1.2
  */
-package it.pupok.task6.readersOfCode.iCodeReader;
+package it.pupok.task6.reader;

@@ -1,4 +1,4 @@
-package it.pupok.task6.writerOfCode.iWriterToFile;
+package it.pupok.task6.writerToFile;
 
 import java.io.IOException;
 
