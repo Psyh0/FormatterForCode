@@ -1,5 +1,6 @@
 package it.pupok.task6.codeFormatter;
 
+import it.pupok.task6.codeFormatter.codeFormatter.CodeFormatter;
 import it.pupok.task6.exceptions.missingBracketException.MissingBracketException;
 import org.junit.Test;
 

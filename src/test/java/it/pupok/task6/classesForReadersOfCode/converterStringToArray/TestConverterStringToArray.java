@@ -1,5 +1,6 @@
 package it.pupok.task6.classesForReadersOfCode.converterStringToArray;
 
+import it.pupok.task6.readersOfCode.converterStringToArray.ConverterStringToArray;
 import org.junit.Test;
 
 import java.util.ArrayList;

@@ -1,10 +1,10 @@
 package it.pupok.task6.main;
 
-import it.pupok.task6.codeFormatter.CodeFormatter;
-import it.pupok.task6.readersOfCode.consoleReader.ConsoleReader;
-import it.pupok.task6.readersOfCode.inputFileReader.InputFileReader;
+import it.pupok.task6.codeFormatter.codeFormatter.CodeFormatter;
+import it.pupok.task6.reader.console.ConsoleReader;
+import it.pupok.task6.reader.file.InputFileReader;
 import it.pupok.task6.exceptions.missingBracketException.MissingBracketException;
-import it.pupok.task6.writerOfCode.writerToFile.WriterToFile;
+import it.pupok.task6.writerToFile.impl.WriterToFile;
 
 import java.io.IOException;
 

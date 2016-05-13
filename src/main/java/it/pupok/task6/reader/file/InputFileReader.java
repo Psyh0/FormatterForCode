@@ -1,6 +1,6 @@
 package it.pupok.task6.reader.file;
 
-import it.pupok.task6.readersOfCode.iCodeReader.ICodeReader;
+import it.pupok.task6.reader.ICodeReader;
 import it.pupok.task6.exceptions.readerException.ReaderException;
 
 import java.io.*;

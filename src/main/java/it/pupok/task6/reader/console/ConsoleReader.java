@@ -1,7 +1,7 @@
 package it.pupok.task6.reader.console;
 
 import it.pupok.task6.readersOfCode.converterStringToArray.ConverterStringToArray;
-import it.pupok.task6.readersOfCode.iCodeReader.ICodeReader;
+import it.pupok.task6.reader.ICodeReader;
 import it.pupok.task6.exceptions.readerException.ReaderException;
 
 import java.io.BufferedReader;
